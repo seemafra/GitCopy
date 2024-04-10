@@ -1,2 +1,3 @@
 echo Hello World
-echo Version Java: {java -version}
+V_JAVA=java -version 
+echo Version Java: $V_JAVA
